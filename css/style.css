@@ -417,11 +417,14 @@ body{
     font-size: 14px;
     font-weight: 400;
 
+
 }
 
 /* footer */
 footer{
-    background-color: #000005;
+    background-color: red;
+    color: white;
+    font-size: 24px;
 }
 
 
