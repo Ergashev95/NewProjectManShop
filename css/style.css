@@ -422,7 +422,10 @@ body{
 /* footer */
 footer{
     background-color: #000005;
+    color: white;
+    font-size: 24px;
 }
+
 
 
 
